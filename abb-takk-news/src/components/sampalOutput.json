@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+"articles": [
+{
+"source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Patrick McDonald",
+            "title": "2023 AT&T Byron Nelson leaderboard: Live updates, full coverage, golf scores in Round 4 on Sunday - CBS Sports",
+            "description": "Live scores, updates and highlights from Sunday's final-round action at the AT&T Byron Nelson",
+            "url": "https://www.cbssports.com/golf/news/2023-at-t-byron-nelson-leaderboard-live-updates-full-coverage-golf-scores-in-round-4-on-sunday/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/14/98c1614c-841a-40ce-8861-acb0097bf1ec/thumbnail/1200x675/153e6ae903ea999f53c61cdc2c1029af/usatsi-20644582-1.jpg",
+            "publishedAt": "2023-05-14T18:24:59Z",
+            "content": "An eclectic group headlined by world No. 2 Scottie Scheffler has bunched atop the leaderboard at the 2023 AT&amp;T Byron Nelson heading into the final round. The Dallas-area resident will begin his l… [+1163 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Zelda: Tears Of The Kingdom's Item Duplication Glitch Is Easy - Kotaku",
+            "description": "There's an easy trick for getting twice as many powerful weapons in Nintendo's new exclusive",
+            "url": "https://kotaku.com/how-to-duplicate-items-zelda-tears-of-the-kingdom-best-1850435663",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fe28d27e697f3b37a9e934ddf7d5b64d.jpg",
+            "publishedAt": "2023-05-14T16:58:08Z",
+            "content": "The Legend of Zelda: Tears of the Kingdom has a day-one item duplication glitch that lets you make copies of new weapons and shields. Its a handy exploit thats easy to do and can cut down on a lot of… [+2388 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Emily Strohm",
+            "title": "Colton Underwood Marries Jordan C. Brown in Napa Valley: 'I've Never Been More Sure of Something' (Exclusive) - Yahoo Entertainment",
+            "description": "The Bachelor alum and political strategist got married during a 3-day wedding celebration that included a performance by Stanford University's Artistic...",
+            "url": "https://www.yahoo.com/entertainment/colton-underwood-marries-jordan-c-163352229.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U0aXSaCslQWSHCyms4xgrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/c9ef3b3eefd3efc66b99ff358e6cc3a4",
+            "publishedAt": "2023-05-14T16:33:52Z",
+            "content": "The Bachelor alum and political strategist got married during a 3-day wedding celebration that included a performance by Stanford University's Artistic Swimmers and a disco-themed pool party\r\nColton … [+4534 chars]"
+        },
+{
+"source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Olaf Storbeck, Roman Olearchyk, Amy Kazmin",
+            "title": "Zelenskyy praises Germany's €2.7bn military aid pledge to Ukraine - Financial Times",
+            "description": "Rheinmetall deal to repair western tanks in war-torn country also announced around president’s visit to Berlin",
+            "url": "https://www.ft.com/content/43e39bca-3e49-4011-b79f-b11d4f24426b",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd23a5482-99e9-4d42-9bec-5630d65d27ab.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-05-14T16:24:17Z",
+            "content": "President Volodymyr Zelenskyy praised Germany as a true friend and reliable ally after it announced it will supply 2.7bn of additional military help for Ukraine and build a weapons factory in the cou… [+4478 chars]"
+        }
+        ]
+}
